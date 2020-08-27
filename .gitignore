@@ -1,1 +1,3 @@
 .dont_track_me
+*.log
+log/
