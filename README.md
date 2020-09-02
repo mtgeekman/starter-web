@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any webserver or even a local
 
 ## How To Contribute
 
+Pleast for this repository and then issue pull requests for review
+
 ### Copyright
 
 2020 Git.Training
